@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is using the nextjs boilerplate!
+Use npm run dev to run :)
